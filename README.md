@@ -44,7 +44,7 @@
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codeflix-bots/filestore/blob/master/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/ZoxxOP/filestore/blob/master/README.md#start_message'>fillings</a>
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 </details>
 
@@ -86,7 +86,7 @@
 <h3>「 ᴏᴛʜᴇʀ ʙʀᴀɴᴄʜᴇs 」
 </h3>
 
-- <b>[ᴛᴏᴋᴇɴ](https://github.com/Codeflix-Bots/FileStore/tree/token)  ➻  [sʜᴏʀᴛɴᴇʀ](https://github.com/Codeflix-Bots/FileStore/tree/Shortner) </b>
+- <b>[ᴛᴏᴋᴇɴ](https://github.com/ZoxxOP/FileStore/tree/token)  ➻  [sʜᴏʀᴛɴᴇʀ](https://github.com/ZoxxOP/FileStore/tree/Shortner) </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -99,7 +99,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZoxxOP/FileStore">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
