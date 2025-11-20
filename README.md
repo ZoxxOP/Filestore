@@ -9,7 +9,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+CODEFLIX+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ғɪʟᴇ+sʜᴀʀɪɴɢ+!;ᴄʀᴇᴀᴛᴇᴅ+ʙʏ+ᴀᴋᴀsʜ+ᴅᴀᴋsʜᴡᴀɴsʜɪ!;ᴀ+ᴀᴅᴠᴀɴᴄᴇ+ʙᴏᴛ+ᴡɪᴛʜ+ᴄᴏᴏʟ+ғᴇᴀᴛᴜʀᴇ!)
 </p>
 
  ━━━━━━━━━━━━━━━━━
@@ -111,13 +111,13 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/ZoxxOP/FileStore">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Codeflix-Bots/FileStore">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/ZoxxOP/FileStore">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
@@ -125,7 +125,7 @@
 </h3>
 <p>
 <pre>
-git clone https://github.com/Codeflix-Bots/FileStore
+git clone https://github.com/ZoxxOP/FileStore
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -137,11 +137,11 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/codeflix_bots) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
-- <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
+- <b>[ᴀɴᴀɴʏᴀ ʙᴏᴛs](https://t.me/AnanyaBots)  ➻
+- ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
+- <b>[ᴀᴋᴀsʜ](https://github.com/ZoxxOP) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴢᴏxxᴏᴘ](https://telegram.me/creativepjp) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 ## 📌  𝑵𝒐𝒕𝒆
 
